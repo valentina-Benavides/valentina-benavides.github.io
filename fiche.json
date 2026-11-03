@@ -1,22 +1,79 @@
 {
-  "_aide": "Votre fiche d'identité : la seule source de votre page. Remplacez chaque valeur (à droite des deux-points) par la vôtre, ou collez ici la fiche écrite par le Gem « Ma fiche d'entité ». Aide champ par champ : fiche.md. Exemple complet : fiche.exemple.json.",
   "type": "Person",
-  "nom": "Prénom Nom",
-  "phrase_identite": "Prénom Nom est [votre métier] chez [votre employeur], à [votre ville].",
-  "metier": "[Votre métier]",
+  "nom": "Valentina Benavides",
+  "phrase_identite": "Valentina Benavides est Chargée Marketing Digital chez De Vinci Executive Education à Paris.",
+  "metier": "Chargée Marketing Digital",
   "employeur": {
-    "nom": "[Votre employeur ou votre projet]",
-    "url": ""
+    "nom": "De Vinci Executive Education",
+    "url": "https://executive.devinci.fr/",
+    "description": "École de formation continue et executive education du pôle Léonard de Vinci"
   },
-  "ville": "[Votre ville]",
-  "domaines": ["[Domaine 1]", "[Domaine 2]", "[Domaine 3]"],
-  "ce_que_je_fais": "[Deux ou trois phrases : ce que vous faites, pour qui, avec quoi.]",
-  "parcours": "[Une ou deux phrases : d'où vous venez, ce que vous préparez.]",
-  "profils": [
-    { "nom": "LinkedIn", "url": "https://www.linkedin.com/in/votre-profil" }
+  "ville": "Paris",
+  "domaines": [
+    "Community Management",
+    "Stratégie de communication",
+    "Social Media Marketing",
+    "Création de contenu",
+    "SEO et GEO",
+    "Intelligence artificielle"
   ],
-  "theme": "clair",
-  "couleur_accent": "#2952CC",
+  "ce_que_je_fais": "Je participe à la gestion et au développement de la présence digitale de De Vinci Executive Education. Je conçois des contenus pour les réseaux sociaux, prépare des calendriers éditoriaux et crée des supports visuels pour promouvoir les formations et événements de l'école, tout en m'intéressant aux usages de l'IA dans le marketing.",
+  "parcours": "Diplômée d'un Master de Marketing et communication digitale, je poursuis mon parcours avec un MBA Marketing Digital & Intelligence Artificielle en alternance chez De Vinci Executive Education, après deux ans d'alternance à l'Assurance Maladie de Paris.",
+  "profils": [
+    {
+      "nom": "LinkedIn",
+      "url": "https://www.linkedin.com/in/valentina-benavides-28b366184/"
+    },
+    {
+      "nom": "Instagram",
+      "url": "https://www.instagram.com/valebenavides02/"
+    },
+    {
+      "nom": "TikTok",
+      "url": "https://www.tiktok.com/@vale_benavides02/"
+    }
+  ],
+  "theme": "sombre",
+  "couleur_accent": "#C8A96B",
   "animations": true,
-  "identifiant_github": "IDENTIFIANT"
+  "identifiant_github": "valentina-Benavides"
+}{
+  "type": "Person",
+  "nom": "Valentina Benavides",
+  "phrase_identite": "Valentina Benavides est Chargée Marketing Digital chez De Vinci Executive Education à Paris.",
+  "metier": "Chargée Marketing Digital",
+  "employeur": {
+    "nom": "De Vinci Executive Education",
+    "url": "https://executive.devinci.fr/",
+    "description": "École de formation continue et executive education du pôle Léonard de Vinci"
+  },
+  "ville": "Paris",
+  "domaines": [
+    "Community Management",
+    "Stratégie de communication",
+    "Social Media Marketing",
+    "Création de contenu",
+    "SEO et GEO",
+    "Intelligence artificielle"
+  ],
+  "ce_que_je_fais": "Je participe à la gestion et au développement de la présence digitale de De Vinci Executive Education. Je conçois des contenus pour les réseaux sociaux, prépare des calendriers éditoriaux et crée des supports visuels pour promouvoir les formations et événements de l'école, tout en m'intéressant aux usages de l'IA dans le marketing.",
+  "parcours": "Diplômée d'un Master de Marketing et communication digitale, je poursuis mon parcours avec un MBA Marketing Digital & Intelligence Artificielle en alternance chez De Vinci Executive Education, après deux ans d'alternance à l'Assurance Maladie de Paris.",
+  "profils": [
+    {
+      "nom": "LinkedIn",
+      "url": "https://www.linkedin.com/in/valentina-benavides-28b366184/"
+    },
+    {
+      "nom": "Instagram",
+      "url": "https://www.instagram.com/valebenavides02/"
+    },
+    {
+      "nom": "TikTok",
+      "url": "https://www.tiktok.com/@vale_benavides02/"
+    }
+  ],
+  "theme": "sombre",
+  "couleur_accent": "#C8A96B",
+  "animations": true,
+  "identifiant_github": "valentina-Benavides"
 }
