@@ -1,5 +1,5 @@
 {
-  "type": "Person",
+  "type": "Person"
   "nom": "Valentina Benavides",
   "phrase_identite": "Valentina Benavides est Chargée Marketing Digital chez De Vinci Executive Education à Paris.",
   "metier": "Chargée Marketing Digital",
@@ -38,7 +38,7 @@
     "nom": "Organizacion Turismo VIP",
     "description": "Agence de voyages en Colombie",
     "url": "https://www.viajes-turismo-vip.com/",
-    "relation": "créatrice",
+    "relation": "créatrice de page web",
     "titre_section": "Mon projet"
   },
   "theme": "sombre",
