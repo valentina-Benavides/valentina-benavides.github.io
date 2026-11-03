@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page en préparation</title>
+<meta name="description" content="Cette page sera remplacée par une page d'entité construite depuis fiche.json.">
+<meta name="robots" content="noindex">
+<!--
+  Page d'attente. Elle ne s'affiche que si GitHub Pages publie ce dépôt
+  « depuis une branche ». Dès que Settings > Pages > Source est sur
+  « GitHub Actions », la vraie page, construite depuis fiche.json,
+  la remplace. Ne modifiez pas ce fichier : modifiez fiche.json.
+-->
+<style>
+  :root { color-scheme: light; --fond:#F5F6F8; --encre:#141A26; --encre-2:#3E4757; --ligne:#DDE1E8; --accent:#2952CC; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--fond); color:var(--encre); font:1.0625rem/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 40rem; margin: 0 auto; padding: clamp(2.5rem, 8vw, 5rem) 1.25rem; }
+  h1 { font-size: clamp(1.9rem, 1.3rem + 2.6vw, 2.6rem); line-height: 1.1; letter-spacing: -.02em; margin: 0 0 1rem; }
+  .trait { display:block; width:4rem; height:.3rem; background:var(--accent); margin: 0 0 1.5rem; }
+  p { margin: 0 0 1rem; color: var(--encre-2); }
+  ol { margin: 1.5rem 0; padding-left: 1.3rem; }
+  li { margin: .5rem 0; }
+  strong { color: var(--encre); }
+  a { color: var(--accent); text-underline-offset: .2em; }
+  a:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+  .note { border-top: 1px solid var(--ligne); padding-top: 1rem; font-size: .95rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Cette page sera remplacée par la vôtre</h1>
+  <span class="trait" aria-hidden="true"></span>
+  <p>Vous voyez cette page d'attente parce que la publication n'est pas encore réglée sur GitHub Actions. Votre vraie page, construite depuis votre fiche, prendra sa place.</p>
+  <ol>
+    <li>Dans votre dépôt GitHub : <strong>Settings → Pages → Build and deployment → Source : GitHub Actions</strong>.</li>
+    <li>Puis : <strong>Actions → Publier ma page → Run workflow</strong>.</li>
+    <li>Attendez la coche verte, puis rechargez cette adresse.</li>
+  </ol>
+  <p class="note">Le guide complet est dans le fichier README du dépôt (étape 3). Un exemple du résultat : <a href="exemple/">la page de Marie Exemple</a>, une personne fictive.</p>
+</main>
+</body>
+</html>
